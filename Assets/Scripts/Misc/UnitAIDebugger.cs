@@ -28,7 +28,6 @@ namespace Misc
 
             foreach (var unit in _mapSystem.Units)
             {
-                // Draw unit position
                 Gizmos.color = unit.IsPlayerOwned ? Color.green : Color.red;
                 Gizmos.DrawSphere(unit.Visual.transform.position + Vector3.up * 0.5f, 0.15f);
 

@@ -1,3 +1,3 @@
 # Knight Forge
 
-An example project for UniOrchestrator.
+An example project for Reflection Games
