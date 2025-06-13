@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "co.magicengineering.uniorchestrator": "file:/Users/tatemccormick/Documents/Projects/UniOrchestrator",
+    "co.magicengineering.uniorchestrator": "https://github.com/tatelax/UniOrchestrator.git",
     "com.cysharp.unitask": "https://github.com/Cysharp/UniTask.git?path=src/UniTask/Assets/Plugins/UniTask",
     "com.unity.2d.sprite": "1.0.0",
     "com.unity.2d.spriteshape": "10.0.7",

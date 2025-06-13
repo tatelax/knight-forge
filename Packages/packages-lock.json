@@ -1,13 +1,14 @@
 {
   "dependencies": {
     "co.magicengineering.uniorchestrator": {
-      "version": "file:/Users/tatemccormick/Documents/Projects/UniOrchestrator",
+      "version": "https://github.com/tatelax/UniOrchestrator.git",
       "depth": 0,
-      "source": "local",
+      "source": "git",
       "dependencies": {
         "com.cysharp.unitask": "2.5.10",
         "com.unity.ugui": "2.0.0"
-      }
+      },
+      "hash": "092e953575e99fe767e6cd717653dfaab8f1fd9a"
     },
     "com.cysharp.unitask": {
       "version": "https://github.com/Cysharp/UniTask.git?path=src/UniTask/Assets/Plugins/UniTask",
